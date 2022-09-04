@@ -343,7 +343,7 @@ select {
 }
 
 .no-webp .main {
-  background: url("../../img/main-img.jpg") no-repeat fixed top/cover; }
+  background: url("../img/main-img.jpg") no-repeat fixed top/cover; }
 
 .main {
   position: relative;
@@ -840,4 +840,4 @@ select {
   }
 }
 
-.webp .main { background: url(../../img/main-img.webp) no-repeat fixed top/cover; }
+.webp .main { background: url(../img/main-img.webp) no-repeat fixed top/cover; }
